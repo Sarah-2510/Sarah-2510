@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Sarah-2510/Sarah-2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sarah-2510)](https://github.com/ryo-ma/github-profile-trophy)
 
 Here are some ideas to get you started:
 
